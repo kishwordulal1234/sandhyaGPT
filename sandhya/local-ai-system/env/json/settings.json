@@ -1,0 +1,6 @@
+{
+	"PERSIST_DIRECTORY": "path/to/persist_directory",
+	"SOURCE_DIRECTORY": "path/to/source_directory",
+	"EMBEDDINGS_MODEL_NAME": "model_name"
+}
+
